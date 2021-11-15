@@ -12,6 +12,8 @@ The stock market prediction problem is considered to be a Markov process which c
 * Hardware accelerator: TPU (peferred)
 
 ## Results
+Amazon (AMZN) was chosen for its mixture of long-term growth with frequent fluctuation. It was observed around the 700th (out of 1000) episode that the agent met or outperformed the market moving average.
+
 ![AMZN](https://github.com/jimmyland22/CMPE260/blob/main/results/AMZN_performance.png)
 
 ## References
